@@ -1,0 +1,206 @@
+.navbar{
+    display:flex;
+}
+.section1{
+    width: 20%;
+    padding: 14px 3px 3px 16px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.section2{
+    width:60%;
+}
+.section2 ul li{
+    list-style: none;
+    color: black;
+    display: inline-block;
+    padding: 0px 6px;
+    margin: 0%;
+}
+.section2 ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.section3{
+    width:20%;
+    padding: 14px 3px 3px 16px;
+}
+.banner{
+    background-image: url(Fruitsveggiesbanner.jpg);
+    height: 530px;
+}
+.aboutus{
+    display: flex;
+    align-items: center;
+}
+.about1{
+    width:50%;
+    background-image: url(about.png);
+    height: 750px;
+}
+.about2{
+    width:50%;
+    text-align: center;
+}
+.about2 h4{
+    color: rgb(83, 237, 83);
+    font-size: larger;
+}
+.service-heading h4{
+    color: rgb(83, 237, 83);
+    font-size: larger;
+}
+.cards{
+    display:flex;
+    height:250px;
+    justify-content: space-around;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.card1{
+    border: 0.5px solid gray;
+    width: 300px;
+    padding:2px 2px 2px 2px;
+}
+.card2{
+    border: 1px solid gray;
+    width: 300px;
+    padding:2px 2px 2px 2px;
+}
+.card3{
+    border: 1px solid gray;
+    width: 300px;
+    padding:2px 2px 2px 2px;
+}
+.card4{
+    border: 1px solid gray;
+    width: 300px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards-1{
+    display:flex;
+    height:450px;
+    justify-content: space-around;
+}
+.np-cards1{
+    border: 0.5px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards2{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards3{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards4{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.np-cards-2{
+    display:flex;
+    height:450px;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.np-cards5{
+    border: 0.5px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards6{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards7{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.np-cards8{
+    border: 1px solid gray;
+    width: 350px;
+    padding:2px 2px 2px 2px;
+}
+.clients{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    border: 1px solid gray;
+    width: 50%;
+    padding: 1px 1px 1px 1px;
+   
+}
+.clientphoto{
+    display: flex;
+    width: 50%;
+    padding: 1px 1px 1px 1px;
+}
+.clientname{
+    padding: 1px 1px 1px 1px;
+}
+.clientname p{
+    font-size: smaller;
+}
+.txt{
+    font-size: smaller;
+}
+.ln-cards-1{
+    display:flex;
+    height:300px;
+    justify-content: space-evenly;
+    padding-top: 20px;
+
+}
+.ln-cards1{
+    border: 0.5px solid gray;
+    width: 450px;
+    padding:2px 2px 2px 2px;
+}
+.ln-cards2{
+    border: 1px solid gray;
+    width: 450px;
+    padding:2px 2px 2px 2px;
+}
+.ln-cards3{
+    border: 1px solid gray;
+    width: 450px;
+    padding:2px 2px 2px 2px;
+}
+.footer{
+    background-color: rgb(0, 13, 47);
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.info li{
+    list-style: none;
+    color: white;
+}
+info li.heading{
+    color: green;
+}
+.link{
+    display: flex;
+    background-color: rgb(0, 13, 47);
+    padding-top: 8px;
+}
+.link1{
+    width: 40%;
+}
+.icons{
+    width: 60%;
+}
